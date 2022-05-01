@@ -34,8 +34,11 @@ public class Demo {
         idMap.put(e1, "Martin");
 	}
 	
+	//List<String> empList = idMap.entrySet().stream()
+		//	.filter(e -> e.getKey().getId()>21);
+					//.map(Employee::getName)
+					//.coll
 	
-	System.out.println("drawing shape..");
 	
 	
 	
